@@ -1,7 +1,7 @@
 # 🧬 Detección de Interacciones Fármaco-Fármaco (DDI) con NLP
 
 **Proyecto de Práctica Profesional — DATOMICS · UNAB**  
-*Equipo de 3 integrantes · Director: Dr. Eduardo Martínez*
+*Equipo de 3 integrantes · Supervisor: Dr. Eduardo Martínez*
 
 Este repositorio contiene el pipeline completo, el dataset analítico y los modelos de Machine Learning desarrollados para detectar y clasificar automáticamente interacciones fármaco-fármaco (DDI) a partir de la base de datos **DrugBank** y una base clínica local.
 
